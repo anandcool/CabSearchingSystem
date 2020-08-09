@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811509323020",
+    "firebase_url": "https://cabbssys-fff97.firebaseio.com",
+    "project_id": "cabbssys-fff97",
+    "storage_bucket": "cabbssys-fff97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811509323020:android:2e552926365cff8d40e529",
+        "android_client_info": {
+          "package_name": "com.example.cabbssys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811509323020-31moe5qsrq1e66b2r5jd3tj2sa5rntgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cabbssys",
+            "certificate_hash": "2e147dc4a6c3b0b1965a99763a93cbe5588d2022"
+          }
+        },
+        {
+          "client_id": "811509323020-hrubtbnt5qv674qhi9o3no1cuelqd5av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUg1D_vylB_mKpahLVT-z25tagrZLqG1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811509323020-hrubtbnt5qv674qhi9o3no1cuelqd5av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

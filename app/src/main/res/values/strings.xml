@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CabBSSys</string>
+    <string name="title_activity_maps">CabBSSys</string>
+    <string name="title_activity_userdriver">Map</string>
+</resources>
